@@ -3,7 +3,8 @@ Projeto - GreenBite
 Landing page responsiva desenvolvida para uma empresa fictícia de delivery de alimentos.
 O site possui 4 seções: Home, Sobre, Menu e Contato.
 
->>Versão Desktop
+>Versão Desktop
+
 >Home
 
 ![Desktop-Home (GreenBite)](https://github.com/Sullara/Landing-Page---GreenBite/assets/146398676/4c9dfb94-9311-47ba-87e9-71df66f66834)
@@ -20,7 +21,8 @@ O site possui 4 seções: Home, Sobre, Menu e Contato.
 
 ![Desktop - Contato (GreenBite)](https://github.com/Sullara/Landing-Page---GreenBite/assets/146398676/1ab8e905-1cfb-416b-8672-3b89f740efa9)
 
->>Versão Mobile
+>Versão Mobile
+
 >Home
 
 ![Mobile - Home (GreenBite)](https://github.com/Sullara/Landing-Page---GreenBite/assets/146398676/9db0b2b5-c9bc-45c7-aef0-23d9f13316f7)
