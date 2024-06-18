@@ -1,6 +1,6 @@
 Projeto - GreenBite
 
-Landing page responsiva desenvolvida para uma empresa fictícia de delivery de alimentos.
+Landing page responsiva desenvolvida em html e css para uma empresa fictícia de delivery de alimentos.
 O site possui 4 seções: Home, Sobre, Menu e Contato.
 
 >Versão Desktop
